@@ -1,8 +1,7 @@
 ### Olá, eu sou o Lucas! 🤠
 
-- 🐱‍🏍 Desenvolvedor frontend.
-- 🐱‍👤 16 anos!
-- 💻 Atualmente estou estudando javascript.
+- 🐱‍🏍 Engenheiro de Sofware.
+- 🐱‍👤 18 anos!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=400rem align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lucasborges&show_icons=true&theme=github_dark&hide=contribs,prs" />
